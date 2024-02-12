@@ -28,6 +28,8 @@ Need support for another standard? Let us know by filing a feature request!
  * [tcgdiskstat](cmd/tcgdiskstat/README.md) is like `blkid` or `lsscsi` but for TCG drives.<br>
    Install it: `go install github.com/open-source-firmware/go-tcg-storage/cmd/tcgdiskstat@main`
 
+ * [gosedctl](cmd/gosedctl/README.md) 
+
 
 ## Supported Transports
 
